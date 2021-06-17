@@ -12,6 +12,12 @@ Java ile kodlanmış oyun satış platformlarının simülasyon edilmiş hali. M
 4) Satışlarda kampanya entegrasyonunu simule ediniz.
 
 5) Solid prensiplerine uygun bir şekilde kodlayınız.
+</br>
+
+#### Folders
+
+![gamestoredosya](https://user-images.githubusercontent.com/77545911/122417791-6c0e8d80-cf92-11eb-8381-a0f743c95b97.PNG)
+</br>
 
 #### Main class 
 ![GameStoreMain](https://user-images.githubusercontent.com/77545911/122417027-dffc6600-cf91-11eb-8b57-4735ec81e0d5.PNG)
