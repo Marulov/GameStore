@@ -18,5 +18,7 @@ Java ile kodlanmış oyun satış platformlarının simülasyon edilmiş hali. M
 </br>
 
 #### Console
+![GameStoreConsole](https://user-images.githubusercontent.com/77545911/122417419-2356d480-cf92-11eb-89a5-31a5368ddc94.PNG)
+
 
 
