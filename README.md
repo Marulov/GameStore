@@ -12,7 +12,6 @@ Java ile kodlanmış oyun satış platformlarının simülasyon edilmiş hali. M
 4) Satışlarda kampanya entegrasyonunu simule ediniz.
 
 5) Solid prensiplerine uygun bir şekilde kodlayınız.
-</br>
 
 #### Folders
 
